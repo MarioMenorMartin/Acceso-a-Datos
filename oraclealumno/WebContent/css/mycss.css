@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.fondo {
+	background-color: #C9DEFD;
+}
+select {
+  font-size: 20px !important;
+}
+.text-30 {
+	font-size: 36px;
+}
+
