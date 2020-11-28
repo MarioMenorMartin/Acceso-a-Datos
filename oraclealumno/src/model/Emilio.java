@@ -3,7 +3,7 @@ package model;
 public class Emilio {
 	private String dni;
 	private String email;
-	
+
 	public Emilio() {
 		super();
 	}
@@ -34,5 +34,5 @@ public class Emilio {
 	public String toString() {
 		return "Emilio [dni=" + dni + ", email=" + email + "]";
 	}
-	
+
 }

@@ -24,6 +24,5 @@ public class Curso {
 	public String toString() {
 		return "Curso [curso=" + curso + "]";
 	}
-	
-	
+
 }
